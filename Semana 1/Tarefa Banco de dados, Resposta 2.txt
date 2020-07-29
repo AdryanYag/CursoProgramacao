@@ -1,0 +1,18 @@
+
+7-create database (nome da database);
+
+8-yes i have and this dont have a command bitch!
+
+9- drop database (nome da database);
+
+10-\u (nome da database);
+
+11-create table sala1 (
+nome varchar (30),
+matric tinyint,
+n1 char (1),
+n2 float,
+n3 float,
+n4 float ,
+med varchar (20)
+);

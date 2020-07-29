@@ -1,0 +1,13 @@
+1- Algoritmos e o passo a passo finito que leva a execução de alguma tarefa.
+
+2- Como fazer um ovo: *1- Pega uma panela uma colher uma manteiga e um ovo.
+*2- Ligue o fogo.
+*3- Coloque a panela no fogo.
+*4- Pegue e colher e pegue ecom ela um pouco de manteiga dentro da panela,e espere esquentar.
+*5- Pegue seu ovo e quebre-o dentro da panela se quiser pode mecher mais so se for ovo mexido.
+*5- Pegue um sal e coloque um pouco na panela antes que fique pronto.
+*8- Pegue um prato e coloque seu ovo dentro dele e pronto agr e so comer.
+================================================================================================
+3- Uma variavel e o local onde fica armazenado os comandos que representa um valor ou expressão 
+
+

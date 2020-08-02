@@ -1,0 +1,18 @@
+1- Tabelas,Campos (Colunas) e Registros (Linhas ou Tuplas).
+
+2-Tabelas: Onjetos onde atributos dos dados: nome, data, idade, etc, é uma coluna da 
+tabela que mantém informações de cada registro.
+
+Registros: É uma entrada única em uma tabela, são uns conjuntos de campos que 
+caracterizam os dados de uma entidade.
+
+3- é a linguagem padrão de ascesso  ao banco de dados (linguagem de consulta estruturada)
+e essa linguagem tem varias variações como T-SQL PL/SQL e outros.
+
+4- DDL (Data Definition  Language), DML (Data Manipulation Language),
+DCL (Data Control Language), DQL (Data Query Language).
+
+5- DDL: create,alter,drop: DML: insert,update, delete: DCL: grant, revoke:
+DQL: select.
+
+6- Numérico, Data, Literal, Espacial.
